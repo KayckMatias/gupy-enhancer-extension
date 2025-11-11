@@ -23,7 +23,7 @@
 
 1. Ative o **Modo do desenvolvedor** (no canto superior direito, o local/nome pode variar entre navegadores).  
 2. Clique em **Carregar sem compactação**.
-3. Selecione a pasta do projeto (`gupy-enhancer`).  
+3. Selecione a pasta do projeto (`Gupy-Enhancer-x.x.x`).  
 4. A extensão **Gupy Enhancer** aparecerá na sua lista, **habilite-a e eleve sua experiência na Gupy!**
 
 
@@ -35,7 +35,7 @@
 
 ## Estrutura do Projeto
 ```bash
-gupy-enhancer/
+gupy-enhancer-extension/
 ├── manifest.json
 ├── public/
 │   ├── icons/           # Ícones da extensão
