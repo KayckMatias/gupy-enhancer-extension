@@ -29,7 +29,7 @@
 
 ## Como Utilizar
 
-1. Acesse o site da [Gupy](https://www.gupy.io/).  
+1. Acesse uma de suas candidaturas no site da [Gupy](https://portal.gupy.io/my/applications).  
 2. Clique no ícone da extensão na barra do navegador e certifique-se de que ela está **ativa**.  
 3. Recarregue a página da sua candidatura na Gupy e veja as melhorias em ação!
 
