@@ -17,14 +17,22 @@
 
 #### Navegadores baseados no Chromium (Chrome, Edge, Brave, Vivaldi...)
 
-1. Baixe a última versão da extensão zipada e extraia: [Baixar última release](https://github.com/kayckmatias/gupy-enhancer-extension/releases/latest)
+#### Opção 1 - Arquivo zipado
 
+1. Baixe a última versão da extensão zipada: [Baixar última release](https://github.com/kayckmatias/gupy-enhancer-extension/releases/latest)
 2. Acesse no seu navegador: ```chrome://extensions/``` *(Mesmo utilizando outro navegador baseado em Chromium, este link funciona e redireciona corretamente.)*
-
-1. Ative o **Modo do desenvolvedor** (no canto superior direito, o local/nome pode variar entre navegadores).  
-2. Clique em **Carregar sem compactação**.
-3. Selecione a pasta do projeto (`Gupy-Enhancer-x.x.x`).  
+3. Ative o **Modo do desenvolvedor** (no canto superior direito, o local/nome pode variar entre navegadores).  
+3. **Arraste o arquivo zipado para a página** e a instalação será realizada automaticamente.
 4. A extensão **Gupy Enhancer** aparecerá na sua lista, **habilite-a e eleve sua experiência na Gupy!**
+
+#### Opção 2 - Pasta descompactada
+
+1. Baixe a última versão da extensão zipada e extraia: [Baixar última release](https://github.com/kayckmatias/gupy-enhancer-extension/releases/latest)
+2. Acesse no seu navegador: ```chrome://extensions/``` *(Mesmo utilizando outro navegador baseado em Chromium, este link funciona e redireciona corretamente.)*
+3. Ative o **Modo do desenvolvedor** (no canto superior direito, o local/nome pode variar entre navegadores).  
+4. Clique em **Carregar sem compactação**.
+5. Selecione a pasta do projeto (`Gupy-Enhancer-x.x.x`).  
+6. A extensão **Gupy Enhancer** aparecerá na sua lista, **habilite-a e eleve sua experiência na Gupy!**
 
 
 ## Como Utilizar
