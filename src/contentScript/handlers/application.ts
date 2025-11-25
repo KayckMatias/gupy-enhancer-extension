@@ -48,7 +48,7 @@ function injectJobDetails(job: GupyJob) {
                 <span class="ge-title">Detalhes da Vaga</span>
                 <ul>
                     <li><span class="ge-label">Publicada em:</span> ${getDateTime(new Date(job.publishedAt))}</li>
-                    <li><span class="ge-label">Expira em:</span> ${getDateTime(new Date(job.publishedAt))}</li>
+                    <li><span class="ge-label">Expira em:</span> ${new Date(job.expiresAt).toLocaleDateString('pt-BR')}</li>
                     <li><span class="ge-label">Vagas disponíveis:</span> ${job.numVacancies}</li>
                     <li><span class="ge-label">Candidatos inscritos:</span> ${job.applicantCount}</li>
                     <li><span class="ge-label">Última movimentação:</span> ${lastMovementAt}</li>
